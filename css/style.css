@@ -1,0 +1,63 @@
+body {
+    background: rgba(11, 23, 27, 0.05);
+}
+
+pre {
+    background: white;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+
+.navbar {
+    background: rgba(248, 248, 248, 0.95);
+}
+
+.jumbotron {
+    background: rgb(11, 23, 27);
+    /* background-image: url('jumbotron_bg.png'); */
+    background-attachment: fixed;
+    border-bottom: 5px solid rgba(248, 248, 248, 0.4);
+}
+
+.jumbotron h1 {
+    color: white;
+    padding-top: 50px;
+}
+
+.jumbotron p {
+    color: gray;
+}
+
+section {
+    margin-top: -50px;
+    padding-top: 50px;
+}
+
+footer {
+    padding-top: 15px;
+    text-align: center;
+}
+
+
+.sub-header {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0 1em;
+    color: gray;
+}
+
+
+.event-item {
+    margin: 0.5em 1em;
+}
+
+a.join {
+    color: white;
+    background: black;
+    display: inline-block;
+    margin: 0.5em;
+    padding: 0.5em;
+}
